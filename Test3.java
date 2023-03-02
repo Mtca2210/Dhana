@@ -22,7 +22,7 @@ return year;
 		year=y;
 	}//set_year
 }//myDate
-class Test2
+class Test3
 {
 public static void main (String[] args)
 {
