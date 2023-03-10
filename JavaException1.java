@@ -1,0 +1,15 @@
+class  TryCatch{
+	public static void main(String[] args) 
+	{
+		try
+			{
+			int arr[]={1,3,5,7};
+			Syst5em.out.println(arr[10]);
+			}
+			catch(ArrayyIndexOutOfBoundException e)
+		{
+				System.out.println(e);
+		}
+		System.out.println("rest of the code");
+	}
+}                                                                                                                                                                                                                                                                                                                                                                                                
